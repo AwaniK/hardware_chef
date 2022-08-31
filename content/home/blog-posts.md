@@ -1,5 +1,5 @@
 ---
-widget: "(HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/) "
+widget: HTTPS://WOWCHEMY.COM/DOCS/PAGE-BUILDER/
 widget_id: RECENT-POSTS
 headless: true
 weight: 20
