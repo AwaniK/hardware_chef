@@ -1,5 +1,5 @@
 ---
-title: "# Architecture / Performance modeling"
+title: Architecture / Performance Modeling
 subtitle: Working with Memory, Processors, IO and everything that defines how
   computers “compute”
 date: 2022-08-31T17:49:16.336Z
